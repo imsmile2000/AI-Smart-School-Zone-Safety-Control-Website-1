@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97aebc5679a40a2f8523e68c3819dd9094853c888b4bbbf4c5bd452fb1a9d7ac
-size 52
+2022-1 동국대학교 정보통신공학과 캡스톤디자인: 선넘지마 조
+
+I 영상분석을 활용한 스마트 스쿨존 안전관제 웹사이트
+
+2017112209 김명균 
+2017112234 박상준 
+2017112210 정재희
+2019112097 이윤표
+
+FlaskSserver: 웹페이지(React) 및 웹페이지 동작 백엔드(Flask) 프로젝트 폴더
+darknet-yolo, yoloserver: YOLO 영상 처리 서버(Flask)
