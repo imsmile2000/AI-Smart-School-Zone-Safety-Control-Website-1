@@ -14,3 +14,5 @@
 FlaskSserver: 웹페이지(React) 및 웹페이지 동작 백엔드(Flask) 프로젝트 폴더
 
 darknet-yolo, yoloserver: YOLO 영상 처리 서버(Flask)
+
+<img width="527" alt="흐름도" src="https://user-images.githubusercontent.com/71625012/180143607-ea0ab6a0-547c-4759-a377-b456b23ef1c3.PNG">
